@@ -4,6 +4,7 @@ interface ButtonProps {
   variant?: "primary" | "secondary" | "outline";
   size?: "small" | "medium" | "large" | "icon";
   onClick?: () => void;
+  children?: React.ReactNode;  // Add this line to include the children prop
 }
 
 const Button: React.FC<ButtonProps> = ({
