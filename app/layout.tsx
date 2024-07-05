@@ -6,8 +6,8 @@ import { ThemeProvider } from "./Provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "ARJUN's  PORTFOLIO",
-  description: "A interactive and minimalist Portfolio website showcasing Nextjs ",
+  title: "ELECTRO-STROM",
+  description: "Unleashing Tomorrow's Wonders Today - Dive into the Future with MS Innovation! ",
 };
 
 export default function RootLayout({
